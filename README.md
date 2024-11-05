@@ -22,9 +22,9 @@ cuda = 11.2
 
 ## Requirement
 
-keras==2.6.0
-tensorflow-gpu==2.6.0 
-numpy == 1.19.5  
+keras==2.6.0  
+tensorflow-gpu==2.6.0  
+numpy == 1.19.5    
 scipy == 1.3.3  
 scikit-learn == 0.20.2  
 protobuf == 3.19.6  
